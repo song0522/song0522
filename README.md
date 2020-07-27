@@ -1,4 +1,5 @@
-### Hi there 👋
+### 🤔 I’m looking for help with java
+### It's so difficult,i want to grow up quickly
 
 <!--
 **song0522/song0522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
